@@ -20,7 +20,8 @@ $brand-grey-colors: (#000001, #333333, #3B3B3B, #434343, #666666);
 $brand-graph-colors: $brand-neutral-colors;
 $brand-light-colors: (#ffffff, #f2fdff) !default;
 
-$ss-fonts-path: "fonts" !default;
+// TODO: fix this
+$ss-fonts-path: "https://hpefonts.s3.amazonaws.com/web" !default;
 
 @font-face {
   font-family: "Metric";
