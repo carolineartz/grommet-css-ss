@@ -2955,7 +2955,7 @@ _::-webkit-:not(:root:root),
   .grommetux-chart-marker.grommetux-color-index-accent-2, .grommetux-chart-marker.grommetux-color-index-accent-5 {
     stroke: rgba(156, 83, 139, 0.7); }
   .grommetux-chart-marker.grommetux-color-index-accent-3, .grommetux-chart-marker.grommetux-color-index-accent-6 {
-    stroke: rgba(255, 139, 38, 0.7); }
+    stroke: rgba(247, 192, 101, 0.7); }
   .grommetux-chart-marker.color-index-grey-1, .grommetux-chart-marker.color-index-grey-6 {
     stroke: rgba(0, 0, 1, 0.7); }
   .grommetux-chart-marker.color-index-grey-2, .grommetux-chart-marker.color-index-grey-7 {
@@ -3009,7 +3009,7 @@ _::-webkit-:not(:root:root),
   .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-2, .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-5, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-2, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-3, .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-6, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-3, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-1, .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-5, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-1, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-2, .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-6, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-2, .grommetux-background-color-index--light .grommetux-background-color-index--dark .grommetux-chart-marker.grommetux-color-index-neutral-6 {
@@ -3051,7 +3051,7 @@ _::-webkit-:not(:root:root),
   .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-2, .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-5, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-2, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-5 {
     stroke: rgba(156, 83, 139, 0.7); }
   .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-3, .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-6, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-3, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.grommetux-color-index-accent-6 {
-    stroke: rgba(255, 139, 38, 0.7); }
+    stroke: rgba(247, 192, 101, 0.7); }
   .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-1, .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-6, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-1, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-6 {
     stroke: rgba(0, 0, 1, 0.7); }
   .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-2, .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-7, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-2, .grommetux-background-color-index--dark .grommetux-background-color-index--light .grommetux-chart-marker.color-index-grey-7 {
@@ -3094,7 +3094,7 @@ _::-webkit-:not(:root:root),
   .grommetux-chart-graph--line.grommetux-color-index-accent-2, .grommetux-chart-graph--line.grommetux-color-index-accent-5 {
     stroke: rgba(156, 83, 139, 0.7); }
   .grommetux-chart-graph--line.grommetux-color-index-accent-3, .grommetux-chart-graph--line.grommetux-color-index-accent-6 {
-    stroke: rgba(255, 139, 38, 0.7); }
+    stroke: rgba(247, 192, 101, 0.7); }
   .grommetux-chart-graph--line.color-index-grey-1, .grommetux-chart-graph--line.color-index-grey-6 {
     stroke: rgba(0, 0, 1, 0.7); }
   .grommetux-chart-graph--line.color-index-grey-2, .grommetux-chart-graph--line.color-index-grey-7 {
@@ -3137,7 +3137,7 @@ _::-webkit-:not(:root:root),
   .grommetux-chart-graph--bar.grommetux-color-index-accent-2, .grommetux-chart-graph--bar.grommetux-color-index-accent-5 {
     stroke: rgba(156, 83, 139, 0.7); }
   .grommetux-chart-graph--bar.grommetux-color-index-accent-3, .grommetux-chart-graph--bar.grommetux-color-index-accent-6 {
-    stroke: rgba(255, 139, 38, 0.7); }
+    stroke: rgba(247, 192, 101, 0.7); }
   .grommetux-chart-graph--bar.color-index-grey-1, .grommetux-chart-graph--bar.color-index-grey-6 {
     stroke: rgba(0, 0, 1, 0.7); }
   .grommetux-chart-graph--bar.color-index-grey-2, .grommetux-chart-graph--bar.color-index-grey-7 {
@@ -3187,7 +3187,7 @@ _::-webkit-:not(:root:root),
   .grommetux-chart-graph--area.grommetux-color-index-accent-2, .grommetux-chart-graph--area.grommetux-color-index-accent-5 {
     fill: rgba(156, 83, 139, 0.7); }
   .grommetux-chart-graph--area.grommetux-color-index-accent-3, .grommetux-chart-graph--area.grommetux-color-index-accent-6 {
-    fill: rgba(255, 139, 38, 0.7); }
+    fill: rgba(247, 192, 101, 0.7); }
   .grommetux-chart-graph--area.color-index-grey-1, .grommetux-chart-graph--area.color-index-grey-6 {
     fill: rgba(0, 0, 1, 0.7); }
   .grommetux-chart-graph--area.color-index-grey-2, .grommetux-chart-graph--area.color-index-grey-7 {
@@ -3242,7 +3242,7 @@ _::-webkit-:not(:root:root),
   .grommetux-chart-graph__point.grommetux-color-index-accent-2, .grommetux-chart-graph__point.grommetux-color-index-accent-5 {
     fill: rgba(156, 83, 139, 0.9); }
   .grommetux-chart-graph__point.grommetux-color-index-accent-3, .grommetux-chart-graph__point.grommetux-color-index-accent-6 {
-    fill: rgba(255, 139, 38, 0.9); }
+    fill: rgba(247, 192, 101, 0.9); }
   .grommetux-chart-graph__point.color-index-grey-1, .grommetux-chart-graph__point.color-index-grey-6 {
     fill: rgba(0, 0, 1, 0.9); }
   .grommetux-chart-graph__point.color-index-grey-2, .grommetux-chart-graph__point.color-index-grey-7 {
@@ -3285,7 +3285,7 @@ _::-webkit-:not(:root:root),
   .grommetux-chart-graph__point--active.grommetux-color-index-accent-2, .grommetux-chart-graph__point--active.grommetux-color-index-accent-5 {
     fill: #9c538b; }
   .grommetux-chart-graph__point--active.grommetux-color-index-accent-3, .grommetux-chart-graph__point--active.grommetux-color-index-accent-6 {
-    fill: #FF8B26; }
+    fill: #F7C065; }
   .grommetux-chart-graph__point--active.grommetux-color-index-grey-1, .grommetux-chart-graph__point--active.grommetux-color-index-grey-6 {
     fill: #000001; }
   .grommetux-chart-graph__point--active.grommetux-color-index-grey-2, .grommetux-chart-graph__point--active.grommetux-color-index-grey-7 {
@@ -3791,47 +3791,47 @@ _::-webkit-:not(:root:root),
 
 .grommetux-background-color-index-accent-3,
 .grommetux-background-color-index-accent-6 {
-  background-color: #FF8B26; }
+  background-color: #F7C065; }
 
 .grommetux-background-color-index-accent-3-t,
 .grommetux-background-color-index-accent-6-t {
-  background-color: #ff9131; }
+  background-color: #f7c36d; }
 
 .grommetux-background-color-index-accent-3-a,
 .grommetux-background-color-index-accent-6-a {
-  background-color: rgba(255, 139, 38, 0.8); }
+  background-color: rgba(247, 192, 101, 0.8); }
 
 .grommetux-border-color-index-accent-3,
 .grommetux-border-color-index-accent-6 {
-  border-color: #FF8B26; }
+  border-color: #F7C065; }
 
 .grommetux-border-color-index-accent-3-t,
 .grommetux-border-color-index-accent-6-t {
-  border-color: #ff9131; }
+  border-color: #f7c36d; }
 
 .grommetux-color-index-accent-3,
 .grommetux-color-index-accent-6 {
-  color: #FF8B26; }
+  color: #F7C065; }
 
 .grommetux-color-index-accent-3-t,
 .grommetux-color-index-accent-6-t {
-  color: #ff9131; }
+  color: #f7c36d; }
 
 .grommetux-background-hover-color-index-accent-3:hover,
 .grommetux-background-hover-color-index-accent-6:hover {
-  background-color: rgba(255, 139, 38, 0.3); }
+  background-color: rgba(247, 192, 101, 0.3); }
 
 .grommetux-border-small-hover-color-index-accent-3:hover,
 .grommetux-border-small-hover-color-index-accent-6:hover {
-  box-shadow: 0 0 0 1px #FF8B26; }
+  box-shadow: 0 0 0 1px #F7C065; }
 
 .grommetux-border-medium-hover-color-index-accent-3:hover,
 .grommetux-border-medium-hover-color-index-accent-6:hover {
-  box-shadow: 0 0 0 12px #FF8B26; }
+  box-shadow: 0 0 0 12px #F7C065; }
 
 .grommetux-border-large-hover-color-index-accent-3:hover,
 .grommetux-border-large-hover-color-index-accent-6:hover {
-  box-shadow: 0 0 0 24px #FF8B26; }
+  box-shadow: 0 0 0 24px #F7C065; }
 
 .grommetux-background-color-index-grey-1,
 .grommetux-background-color-index-grey-6 {
@@ -4418,7 +4418,7 @@ _::-webkit-:not(:root:root),
   .grommetux-distribution__item-box.grommetux-color-index-accent-2, .grommetux-distribution__item-box.grommetux-color-index-accent-5 {
     fill: #9c538b; }
   .grommetux-distribution__item-box.grommetux-color-index-accent-3, .grommetux-distribution__item-box.grommetux-color-index-accent-6 {
-    fill: #FF8B26; }
+    fill: #F7C065; }
   .grommetux-distribution__item-box.grommetux-color-index-grey-1, .grommetux-distribution__item-box.grommetux-color-index-grey-6 {
     fill: #000001; }
   .grommetux-distribution__item-box.grommetux-color-index-grey-2, .grommetux-distribution__item-box.grommetux-color-index-grey-7 {
@@ -4493,7 +4493,7 @@ _::-webkit-:not(:root:root),
   stroke: #9c538b; }
 
 .grommetux-distribution__item-icons.grommetux-color-index-accent-3, .grommetux-distribution__item-icons.grommetux-color-index-accent-6 {
-  stroke: #FF8B26; }
+  stroke: #F7C065; }
 
 .grommetux-distribution__item-icons.grommetux-color-index-neutral-1, .grommetux-distribution__item-icons.grommetux-color-index-neutral-5 {
   stroke: #425563; }
@@ -4541,8 +4541,6 @@ _::-webkit-:not(:root:root),
   .grommetux-distribution__label.grommetux-background-color-index-accent-1, .grommetux-distribution__label.grommetux-background-color-index-accent-4 {
     color: #fff; }
   .grommetux-distribution__label.grommetux-background-color-index-accent-2, .grommetux-distribution__label.grommetux-background-color-index-accent-5 {
-    color: #fff; }
-  .grommetux-distribution__label.grommetux-background-color-index-accent-3, .grommetux-distribution__label.grommetux-background-color-index-accent-6 {
     color: #fff; }
   .grommetux-distribution__label.grommetux-background-color-index-grey-1, .grommetux-distribution__label.grommetux-background-color-index-grey-6 {
     color: #fff; }
@@ -4652,7 +4650,7 @@ _::-webkit-:not(:root:root),
   .grommetux-distribution__loading-indicator.grommetux-color-index-accent-2, .grommetux-distribution__loading-indicator.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-distribution__loading-indicator.grommetux-color-index-accent-3, .grommetux-distribution__loading-indicator.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-distribution__loading-indicator.grommetux-color-index-neutral-1, .grommetux-distribution__loading-indicator.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-distribution__loading-indicator.grommetux-color-index-neutral-2, .grommetux-distribution__loading-indicator.grommetux-color-index-neutral-6 {
@@ -5721,7 +5719,7 @@ h6.grommetux-heading {
   .grommetux-control-icon.grommetux-color-index-accent-2, .grommetux-control-icon.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-control-icon.grommetux-color-index-accent-3, .grommetux-control-icon.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-control-icon.grommetux-color-index-neutral-1, .grommetux-control-icon.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-control-icon.grommetux-color-index-neutral-2, .grommetux-control-icon.grommetux-color-index-neutral-6 {
@@ -5763,7 +5761,7 @@ h6.grommetux-heading {
   .grommetux-control-icon.grommetux-color-index-accent-2, .grommetux-control-icon.grommetux-color-index-accent-5 {
     fill: #9c538b; }
   .grommetux-control-icon.grommetux-color-index-accent-3, .grommetux-control-icon.grommetux-color-index-accent-6 {
-    fill: #FF8B26; }
+    fill: #F7C065; }
   .grommetux-control-icon.grommetux-color-index-grey-1, .grommetux-control-icon.grommetux-color-index-grey-6 {
     fill: #000001; }
   .grommetux-control-icon.grommetux-color-index-grey-2, .grommetux-control-icon.grommetux-color-index-grey-7 {
@@ -5996,7 +5994,7 @@ h6.grommetux-heading {
   .grommetux-logo-icon.grommetux-color-index-accent-2, .grommetux-logo-icon.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-logo-icon.grommetux-color-index-accent-3, .grommetux-logo-icon.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-logo-icon.grommetux-color-index-neutral-1, .grommetux-logo-icon.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-logo-icon.grommetux-color-index-neutral-2, .grommetux-logo-icon.grommetux-color-index-neutral-6 {
@@ -6619,7 +6617,7 @@ html.rtl .right-left-icon--right {
   .grommetux-legend__item-swatch.grommetux-color-index-accent-2, .grommetux-legend__item-swatch.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-legend__item-swatch.grommetux-color-index-accent-3, .grommetux-legend__item-swatch.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-legend__item-swatch.grommetux-color-index-neutral-1, .grommetux-legend__item-swatch.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-legend__item-swatch.grommetux-color-index-neutral-2, .grommetux-legend__item-swatch.grommetux-color-index-neutral-6 {
@@ -6736,7 +6734,7 @@ html.rtl .right-left-icon--right {
   .grommetux-map__path.grommetux-color-index-accent-2, .grommetux-map__path.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-map__path.grommetux-color-index-accent-3, .grommetux-map__path.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-map__path.grommetux-color-index-neutral-1, .grommetux-map__path.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-map__path.grommetux-color-index-neutral-2, .grommetux-map__path.grommetux-color-index-neutral-6 {
@@ -7171,7 +7169,7 @@ html.rtl .right-left-icon--right {
   .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-accent-2, .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-accent-3, .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-neutral-1, .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-neutral-2, .grommetux-meter--bar .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-neutral-6 {
@@ -7244,7 +7242,7 @@ html.rtl .right-left-icon--right {
   .grommetux-meter--bar .grommetux-meter__thresholds .grommetux-meter__slice.grommetux-color-index-accent-3, .grommetux-meter--bar .grommetux-meter__thresholds .grommetux-meter__slice.grommetux-color-index-accent-6,
   .grommetux-meter--bar .grommetux-meter__tracks .grommetux-meter__slice.grommetux-color-index-accent-3,
   .grommetux-meter--bar .grommetux-meter__tracks .grommetux-meter__slice.grommetux-color-index-accent-6 {
-    stroke: rgba(255, 139, 38, 0.5); }
+    stroke: rgba(247, 192, 101, 0.5); }
   .grommetux-meter--bar .grommetux-meter__thresholds .grommetux-meter__slice.color-index-grey-1, .grommetux-meter--bar .grommetux-meter__thresholds .grommetux-meter__slice.color-index-grey-6,
   .grommetux-meter--bar .grommetux-meter__tracks .grommetux-meter__slice.color-index-grey-1,
   .grommetux-meter--bar .grommetux-meter__tracks .grommetux-meter__slice.color-index-grey-6 {
@@ -7590,7 +7588,7 @@ html.rtl .right-left-icon--right {
 .grommetux-meter--arc .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-accent-6,
 .grommetux-meter--spiral .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-accent-3,
 .grommetux-meter--spiral .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-accent-6 {
-  stroke: #FF8B26; }
+  stroke: #F7C065; }
 
 .grommetux-meter--circle .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-neutral-1, .grommetux-meter--circle .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-neutral-5,
 .grommetux-meter--arc .grommetux-meter__values .grommetux-meter__slice.grommetux-color-index-neutral-1,
@@ -7802,7 +7800,7 @@ html.rtl .right-left-icon--right {
 .grommetux-meter--spiral .grommetux-meter__thresholds .grommetux-meter__slice.grommetux-color-index-accent-6,
 .grommetux-meter--spiral .grommetux-meter__tracks .grommetux-meter__slice.grommetux-color-index-accent-3,
 .grommetux-meter--spiral .grommetux-meter__tracks .grommetux-meter__slice.grommetux-color-index-accent-6 {
-  stroke: rgba(255, 139, 38, 0.5); }
+  stroke: rgba(247, 192, 101, 0.5); }
 
 .grommetux-meter--circle .grommetux-meter__thresholds .grommetux-meter__slice.color-index-grey-1, .grommetux-meter--circle .grommetux-meter__thresholds .grommetux-meter__slice.color-index-grey-6,
 .grommetux-meter--circle .grommetux-meter__tracks .grommetux-meter__slice.color-index-grey-1,
@@ -9017,7 +9015,7 @@ section:not(.grommetux-section) {
   .grommetux-sun-burst__slice.grommetux-color-index-accent-2, .grommetux-sun-burst__slice.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-sun-burst__slice.grommetux-color-index-accent-3, .grommetux-sun-burst__slice.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-sun-burst__slice.grommetux-color-index-neutral-1, .grommetux-sun-burst__slice.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-sun-burst__slice.grommetux-color-index-neutral-2, .grommetux-sun-burst__slice.grommetux-color-index-neutral-6 {
@@ -9498,7 +9496,7 @@ section:not(.grommetux-section) {
     border-bottom-color: #9c538b; }
   .grommetux-tip__drop--top.grommetux-background-color-index-accent-3:after, .grommetux-tip__drop--top.grommetux-background-color-index-accent-6:after {
     content: '';
-    border-bottom-color: #FF8B26; }
+    border-bottom-color: #F7C065; }
 
 .grommetux-tip__drop--bottom {
   transform: translateY(-12px); }
@@ -9514,7 +9512,7 @@ section:not(.grommetux-section) {
     border-top-color: #9c538b; }
   .grommetux-tip__drop--bottom.grommetux-background-color-index-accent-3:after, .grommetux-tip__drop--bottom.grommetux-background-color-index-accent-6:after {
     content: '';
-    border-top-color: #FF8B26; }
+    border-top-color: #F7C065; }
 
 .grommetux-tip__drop--left:after {
   content: '';
@@ -9714,7 +9712,7 @@ section:not(.grommetux-section) {
   .grommetux-topology__path.grommetux-color-index-accent-2, .grommetux-topology__path.grommetux-color-index-accent-5 {
     stroke: #9c538b; }
   .grommetux-topology__path.grommetux-color-index-accent-3, .grommetux-topology__path.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-topology__path.grommetux-color-index-neutral-1, .grommetux-topology__path.grommetux-color-index-neutral-5 {
     stroke: #425563; }
   .grommetux-topology__path.grommetux-color-index-neutral-2, .grommetux-topology__path.grommetux-color-index-neutral-6 {
@@ -10180,7 +10178,7 @@ section:not(.grommetux-section) {
   margin-left: 12px; }
 
 .grommetux-video__chapter-label-active span {
-  color: #FF8B26;
+  color: #F7C065;
   transition: ease-in-out 0.3s; }
 
 .grommetux-video__chapter-marker {
@@ -10205,7 +10203,7 @@ section:not(.grommetux-section) {
   z-index: 40;
   transition: ease-in-out 0.3s;
   cursor: pointer;
-  background-color: #FF8B26; }
+  background-color: #F7C065; }
 
 .grommetux-video__chapter-marker-tick-start {
   right: auto;
@@ -10426,7 +10424,7 @@ section:not(.grommetux-section) {
   .grommetux-world-map__continent.grommetux-color-index-accent-3, .grommetux-world-map__continent.grommetux-color-index-accent-6,
   .grommetux-world-map__place.grommetux-color-index-accent-3,
   .grommetux-world-map__place.grommetux-color-index-accent-6 {
-    stroke: #FF8B26; }
+    stroke: #F7C065; }
   .grommetux-world-map__continent.grommetux-color-index-neutral-1, .grommetux-world-map__continent.grommetux-color-index-neutral-5,
   .grommetux-world-map__place.grommetux-color-index-neutral-1,
   .grommetux-world-map__place.grommetux-color-index-neutral-5 {
@@ -10470,6 +10468,34 @@ section:not(.grommetux-section) {
   letter-spacing: 0.04167em; }
   .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill):hover {
     box-shadow: 0px 0px 0px 2px #101935; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-background-color-index-neutral-1 {
+    background-color: #425563; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-background-color-index-neutral-2 {
+    background-color: #9ad4d6; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-background-color-index-neutral-3 {
+    background-color: #59666f; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-background-color-index-neutral-4 {
+    background-color: #dbcbd8; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-background-color-index-accent-1 {
+    background-color: #50acd3; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-background-color-index-accent-2 {
+    background-color: #9c538b; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-background-color-index-accent-3 {
+    background-color: #F7C065; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-border-color-index-neutral-1:hover {
+    box-shadow: 0px 0px 0px 2px #425563; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-border-color-index-neutral-2:hover {
+    box-shadow: 0px 0px 0px 2px #9ad4d6; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-border-color-index-neutral-3:hover {
+    box-shadow: 0px 0px 0px 2px #59666f; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-border-color-index-neutral-4:hover {
+    box-shadow: 0px 0px 0px 2px #dbcbd8; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-border-color-index-accent-1:hover {
+    box-shadow: 0px 0px 0px 2px #50acd3; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-border-color-index-accent-2:hover {
+    box-shadow: 0px 0px 0px 2px #9c538b; }
+  .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-border-color-index-accent-3:hover {
+    box-shadow: 0px 0px 0px 2px #F7C065; }
   .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-button--primary:hover {
     box-shadow: 0px 0px 0px 2px #101935; }
   .grommetux-button:not(.grommetux-button--disabled):not(.grommetux-button--plain):not(.grommetux-button--fill).grommetux-button--secondary:hover {

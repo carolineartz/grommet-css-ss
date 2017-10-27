@@ -9,6 +9,34 @@
       box-shadow: 0px 0px 0px 2px $button-border-color;
     }
 
+    @for $i from 1 through length($brand-neutral-colors) {
+      &.#{$grommet-namespace}background-color-index-neutral-#{$i} {
+        background-color: nth($brand-neutral-colors, $i);
+      }
+    }
+
+    @for $i from 1 through length($brand-accent-colors) {
+      &.#{$grommet-namespace}background-color-index-accent-#{$i} {
+        background-color: nth($brand-accent-colors, $i);
+      }
+    }
+
+    @for $i from 1 through length($brand-neutral-colors) {
+      &.#{$grommet-namespace}border-color-index-neutral-#{$i} {
+        &:hover {
+          box-shadow: 0px 0px 0px 2px nth($brand-neutral-colors, $i);
+        }
+      }
+    }
+
+    @for $i from 1 through length($brand-accent-colors) {
+      &.#{$grommet-namespace}border-color-index-accent-#{$i} {
+        &:hover {
+          box-shadow: 0px 0px 0px 2px nth($brand-accent-colors, $i);
+        }
+      }
+    }
+
     &.#{$grommet-namespace}button--primary {
       &:hover {
         box-shadow: 0px 0px 0px 2px $brand-color;
