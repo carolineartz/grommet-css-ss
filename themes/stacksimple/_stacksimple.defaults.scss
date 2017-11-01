@@ -4,11 +4,11 @@ $brand-large-number-font-family: 'Metric', Arial, sans-serif;
 $brand-color: #101935;
 $brand-color-lighter: desaturate(lighten($brand-color, 33%), 37%);
 $brand-neutral-colors: (#425563, #9ad4d6, #59666f, #dbcbd8) !default;
-$brand-accent-colors: ( #EA5C29, #6dd1e5, #F7C065) !default;
+$brand-accent-colors: ( #EA5C29, #6dd1e5, #FADD58) !default;
 $brand-status-colors: (
   critical: #F04953,
   error: #F04953,
-  warning: #FFD144,
+  warning: #FADD58,
   ok: #4EB976,
   unknown: #CCCCCC,
   disabled: #CCCCCC
