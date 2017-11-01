@@ -4,7 +4,7 @@ $brand-large-number-font-family: 'Metric', Arial, sans-serif;
 $brand-color: #101935;
 $brand-color-lighter: desaturate(lighten($brand-color, 33%), 37%);
 $brand-neutral-colors: (#425563, #9ad4d6, #59666f, #dbcbd8) !default;
-$brand-accent-colors: (#50acd3, #9c538b, #F7C065) !default;
+$brand-accent-colors: ( #EA5C29, #6dd1e5, #F7C065) !default;
 $brand-status-colors: (
   critical: #F04953,
   error: #F04953,
@@ -16,10 +16,11 @@ $brand-status-colors: (
 
 $brand-link-color: $brand-color !default;
 $link-hover-color: lighten($brand-link-color, 20%);
-// $brand-link-text-decoration: underline;
 $brand-grey-colors: (#000001, #333333, #3B3B3B, #434343, #666666);
 $brand-graph-colors: $brand-neutral-colors;
 $brand-light-colors: (#ffffff, #f2fdff) !default;
+$icon-color: #31353F !default;
+
 // babcca
 // TODO: fix this
 $ss-fonts-path: "https://hpefonts.s3.amazonaws.com/web" !default;
@@ -50,6 +51,7 @@ $ss-fonts-path: "https://hpefonts.s3.amazonaws.com/web" !default;
 $text-font-weight: 100;
 $text-strong-font-weight: 600;
 
-$button-accent-color: #9c538b;
-$control-brand-color: #50acd3;
+$text-color: #31353F !default;
+$heading-text-color: #1C1D49 !default;
+$paragraph-text-color: #565a66 !default;
 $border-radius: 0px;
